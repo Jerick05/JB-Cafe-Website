@@ -275,7 +275,7 @@ body {
   font-size: 2.7rem;
 }
 
-/* Media Query for cta Section */
+/* Media Query for Pricing Section */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   #pricing {
     padding: 7% 10%;
@@ -308,8 +308,8 @@ body {
     font-weight: 400;
 }
 .h2-pricing{
-  font-size: 2rem;
-  font-weight: 500;
+  font-size: 2.7rem;
+  font-weight: 600;
   padding: 0;
 }
 }
